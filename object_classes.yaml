@@ -1,0 +1,13 @@
+path: C:\Users\user\Downloads\CCTV 추적 영상\yolo_data
+train: C:\Users\user\Downloads\CCTV 추적 영상\yolo_data\images\train
+val: C:\Users\user\Downloads\CCTV 추적 영상\yolo_data\images\valid
+test: # optional
+
+names:
+  0: person
+  1: child
+  2: merchant   # salesperson
+  3: stroller
+  4: blind      # visually impaired
+  5: wheelchair
+  
